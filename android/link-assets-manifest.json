@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ProtestRevolution-Regular.ttf",
+      "sha1": "5bde6f8c504048d82c496906b125ae3f621ddc07"
+    },
+    {
+      "path": "assets/fonts/ProtestRiot-Regular.ttf",
+      "sha1": "e8cec983abf34dcdca59df4a90bce74969fa564a"
+    }
+  ]
+}
